@@ -1,0 +1,3 @@
+here the code for excel reader is written 
+
+added more code with word func
